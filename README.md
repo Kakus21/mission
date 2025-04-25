@@ -1,0 +1,2 @@
+# mission
+BYUI Mission Statement
